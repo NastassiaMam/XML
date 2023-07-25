@@ -1,1 +1,9 @@
-
+<root>
+    <Bug report ID>1</Bug report ID>
+    <Title>Can't loging into system</Title>
+    <Severity>Critical</Severity>
+    <Priority>Hight</Priority>
+    <STR>1. Navigate to the site.com</STR>
+    <STR>2. Enter test data in 'login' and 'password' fields</STR>
+    <STR>3. Click 'Login' button</STR>
+</root>
