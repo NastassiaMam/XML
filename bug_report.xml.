@@ -1,5 +1,5 @@
 <root>
-    <Bug report ID>1</Bug report ID>
+    <BugReportID>1</BugReportID>
     <Title>Can't loging into system</Title>
     <Severity>Critical</Severity>
     <Priority>Hight</Priority>
